@@ -1,2 +1,6 @@
 1673283092729:ls
 1673283170761:scan --projectRoot samples-java-servlet-master
+1673283424791:apply initialize-spring-boot-migration
+1673283938209:apply - migrate-annotated-servlets
+1673283943959:apply migrate-annotated-servlets
+1673283956762:apply initialize-spring-boot-migration
